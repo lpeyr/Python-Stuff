@@ -25,13 +25,13 @@ def get_common_divisors():
     divisor = []  # Common divisors
 
     # Number 1
-    for i in range(k):
+    for i in range(k + 1):
         if i > 0:
             if k % i == 0:
                 dk.append(k / i)
 
     # Number 2
-    for i in range(n):
+    for i in range(n + 1):
         if i > 0:
             if n % i == 0:
                 dn.append(n / i)
