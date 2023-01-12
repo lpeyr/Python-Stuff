@@ -8,7 +8,7 @@ alphabet = {
     "G": "Golf",
     "H": "Hotel",
     "I": "India",
-    "J": "Juliette",
+    "J": "Juliett",
     "K": "Kilo",
     "L": "Lima",
     "M": "Mike",
@@ -25,6 +25,18 @@ alphabet = {
     "X": "X-Ray",
     "Y": "Yankee",
     "Z": "Zulu",
+    " ": " ",
+    ".": ".",
+    ",": ",",
+    "É": "Echo",
+    "È": "Echo",
+    "Ê": "Echo",
+    "Ë": "Echo",
+    "Â": "Alpha",
+    "À": "Alpha",
+    "Ä": "Alpha",
+    "Ç": "Charlie",
+    "'": " "
 }
 
 text = input("Enter text\n> ")
